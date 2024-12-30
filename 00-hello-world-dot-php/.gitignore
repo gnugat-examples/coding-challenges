@@ -1,0 +1,12 @@
+# IDE
+/.idea
+/*.bak
+/*.swp
+
+# Temporary (cache) files
+/.composer/cache/
+/.phpunit.result.cache
+/.php-cs-fixer.cache
+
+# Third Party libraries
+/vendor/
